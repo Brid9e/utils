@@ -1,0 +1,17 @@
+{
+  "name": "sutils",
+  "version": "1.0.0",
+  "main": "sutils/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "gitignore-cli": "^0.0.1",
+    "tsc": "^2.0.4",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.11"
+  }
+}

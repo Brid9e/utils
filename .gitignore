@@ -1,0 +1,10 @@
+# 忽略Node.js模块
+node_modules/
+
+# 忽略编译生成的文件
+/dist/
+/build/
+
+# 忽略编辑器配置文件
+.vscode/
+.idea/
